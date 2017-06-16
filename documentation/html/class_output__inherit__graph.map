@@ -1,0 +1,4 @@
+<map id="Output" name="Output">
+<area shape="rect" id="node3" href="$class_l_e_d.html" title="LED class. This class inherit from Output and implements behavior of an LED. " alt="" coords="5,344,96,480"/>
+<area shape="rect" id="node2" href="$class_pin.html" title="Pin class. This class represent a Pin and shouldn&#39;t be instanciated, only inherited. " alt="" coords="9,5,92,127"/>
+</map>

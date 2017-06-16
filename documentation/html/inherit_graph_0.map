@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_pin.html" title="Pin class. This class represent a Pin and shouldn&#39;t be instanciated, only inherited. " alt="" coords="5,5,47,32"/>
+<area shape="rect" id="node2" href="$class_output.html" title="Output class. This class described the behavior for an output. It inherit from Pin. " alt="" coords="95,5,156,32"/>
+<area shape="rect" id="node3" href="$class_l_e_d.html" title="LED class. This class inherit from Output and implements behavior of an LED. " alt="" coords="204,5,252,32"/>
+</map>
